@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-ethan",
+  "version": "0.1.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-ethan",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC"
+}
